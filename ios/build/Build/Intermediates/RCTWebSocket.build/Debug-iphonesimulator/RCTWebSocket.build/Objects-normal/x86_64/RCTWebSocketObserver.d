@@ -1,0 +1,17 @@
+dependencies: \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/Libraries/WebSocket/RCTWebSocketObserver.m \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/Libraries/WebSocket/RCTWebSocketObserver.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketObserverProtocol.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h

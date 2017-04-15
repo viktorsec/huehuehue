@@ -1,0 +1,6 @@
+{
+  "extends": "vacuumlabs",
+  "rules": {
+    // Additional, per-project rules...
+  }
+}

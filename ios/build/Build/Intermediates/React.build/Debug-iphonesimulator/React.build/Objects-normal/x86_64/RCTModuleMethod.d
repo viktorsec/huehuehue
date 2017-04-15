@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTModuleMethod.m \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Yreg/Documents/personal/huehuehue/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Yreg/Documents/personal/huehuehue/node_modules/react-native/React/Base/RCTUtils.h
